@@ -260,7 +260,7 @@ html, body{
   font-family: Arial, Helvetica, sans-serif;
 }
 .bg1 {
-  background-image: url(../Airbnb/img/bg.jpg);
+  background-image: url(img/bg.jpg);
   height: 100%;
   background-position: center;
   background-size: cover;
@@ -562,7 +562,7 @@ html, body{
   cursor: pointer;
 }
 .sp2img {
-  background-image: url(../Airbnb/img/2-1.jpg);
+  background-image: url(img/2-1.jpg);
   height: 300px;
   background-position: center;
   background-size: cover;
@@ -770,7 +770,7 @@ span {
   /* cursor: pointer; */
 }
 .sp5bg1 {
-  background-image: url(../Airbnb/img/5-1.jpg);
+  background-image: url(img/5-1.jpg);
   height: 300px;
   background-position: center;
   background-size: cover;
@@ -778,7 +778,7 @@ span {
   border-radius: 5px;
 }
 .sp5bg2 {
-  background-image: url(../Airbnb/img/5-2.jpg);
+  background-image: url(img/5-2.jpg);
   height: 300px;
   background-position: center;
   background-size: cover;
@@ -786,7 +786,7 @@ span {
   border-radius: 5px;
 }
 .sp5bg3 {
-  background-image: url(../Airbnb/img/5-3.jpg);
+  background-image: url(img/5-3.jpg);
   height: 300px;
   background-position: center;
   background-size: cover;
@@ -794,7 +794,7 @@ span {
   border-radius: 5px;
 }
 .sp5bg4 {
-  background-image: url(../Airbnb/img/5-4.jpg);
+  background-image: url(img/5-4.jpg);
   height: 300px;
   background-position: center;
   background-size: cover;
@@ -802,7 +802,7 @@ span {
   border-radius: 5px;
 }
 .sp5bg5 {
-  background-image: url(../Airbnb/img/5-5.jpg);
+  background-image: url(img/5-5.jpg);
   height: 300px;
   background-position: center;
   background-size: cover;
@@ -810,7 +810,7 @@ span {
   border-radius: 5px;
 }
 .sp5bg6 {
-  background-image: url(../Airbnb/img/5-6.jpg);
+  background-image: url(img/5-6.jpg);
   height: 300px;
   background-position: center;
   background-size: cover;
@@ -818,7 +818,7 @@ span {
   border-radius: 5px;
 }
 .sp5bg7 {
-  background-image: url(../Airbnb/img/5-7.jpg);
+  background-image: url(img/5-7.jpg);
   height: 300px;
   background-position: center;
   background-size: cover;
@@ -826,7 +826,7 @@ span {
   border-radius: 5px;
 }
 .sp5bg8 {
-  background-image: url(../Airbnb/img/5-8.jpg);
+  background-image: url(img/5-8.jpg);
   height: 300px;
   background-position: center;
   background-size: cover;
@@ -834,7 +834,7 @@ span {
   border-radius: 5px;
 }
 .sp5bg9 {
-  background-image: url(../Airbnb/img/5-9.jpg);
+  background-image: url(img/5-9.jpg);
   height: 300px;
   background-position: center;
   background-size: cover;
